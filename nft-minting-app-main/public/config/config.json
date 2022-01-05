@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x22d946e2ee1abd2d5da890a995ce8d0cf4caa0c5",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x852627f62c303b8dc54581206a5c4a2bc05894afd0c950c8c98843dd4110380b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "NFT test",
+  "SYMBOL": "NFTT",
+  "MAX_SUPPLY": 111,
+  "WEI_COST": 2,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/nft-test-d2buv6sz4i",
+  "SHOW_BACKGROUND": true
+}
